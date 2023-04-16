@@ -14,5 +14,5 @@ npm install
 npm start
 npm install @reduxjs/toolkit redux
 
-If any error comes copy the error & try ChatGPT to solve them
+If any error comes copy the error & try ChatGPT to solve them.
 
